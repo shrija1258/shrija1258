@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Shrija 👋
 
-<!--
-**shrija1258/shrija1258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming B.Tech student in Chemical Engineering at KIIT. My ultimate goal is to pursue a Direct STEM PhD in the USA focusing on space-grade batteries, advanced composites, and astronaut life-support systems, aiming for a research career at NASA.
 
-Here are some ideas to get you started:
+## 🚀 Research Interests & Focus Areas
+- **Space Energy Storage:** Solid-state Lithium-metal battery kinetics and thermal management.
+- **Advanced Spacecraft Materials:** Hydrogen-rich polymer matrix nanocomposites for cosmic radiation shielding.
+- **Data Analytics:** Applying Python to industrial chemical instrumentation data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python (NumPy, SciPy, Matplotlib), Basic C++
+- **Frameworks:** Anaconda, Jupyter Notebooks, Git/GitHub
+- **Industrial Compliance:** Familiar with ISO/IEC 17025 data logging via NABL accredited lab environments.
+
+## 📈 Current Milestones
+- 🎯 Maintaining a 9.5+ CGPA target at KIIT.
+- 🏎️ Aiming for the campus Aerospace/Racing student project teams.
+- 🧪 Preparing for the IASc-INSA-NASI Summer Research Fellowship (SRFP).
