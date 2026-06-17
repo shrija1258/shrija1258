@@ -1,6 +1,6 @@
 # Hi there, I'm Shrija 👋
 
-I am an incoming B.Tech student in Chemical Engineering at KIIT. My ultimate goal is to pursue a Direct STEM PhD in the USA focusing on space-grade batteries, advanced composites, and astronaut life-support systems, aiming for a research career at NASA.
+I am an incoming B.Tech student in Chemical Engineering. My ultimate goal is to pursue a Direct STEM PhD in the USA focusing on space-grade batteries, advanced composites, and astronaut life-support systems, aiming for a research career at NASA.
 
 ## 🚀 Research Interests & Focus Areas
 - **Space Energy Storage:** Solid-state Lithium-metal battery kinetics and thermal management.
